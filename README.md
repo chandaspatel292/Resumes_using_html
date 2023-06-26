@@ -1,2 +1,2 @@
 # Resumes_using_html
-Just having fun with HTML by creating sample resumes
+Just having fun with HTML and CSS by creating sample resumes
